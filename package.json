@@ -1,0 +1,19 @@
+{
+  "name": "cypress-in-15",
+  "version": "1.0.0",
+  "description": "This is a cypress tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
